@@ -1,41 +1,47 @@
-.otp-payment-successful-rectangle{
-	height:500px;
+.otp-rectangle-box{
+	height:550px;
 	border:3px solid #0F3B75;
     margin-top: 120px;
     text-align: center;
 }
 
-.otp-text-center{
+.otp-text{
     font-family: Lato;
     font-weight: bold;
-    font-size: 16px;
     color: #0F3B75;
-    margin-top:50px;
+    margin-top:100px;
 }
-
-
 .otp-p{
-    font-family: Lato;
-    font-weight: lighter;
     font-size: 13px;
-    color: #0F3B75;
     padding-bottom: 20px; 
 }
 .otp-textbox{
-
-width: 342px;
-height: 40px;
-margin-left: -50px;
-
+    border:1.5px solid #0F3B75;
+    height: 40px;
 }
 
 .otp-button{
-
-font-family: Lato; 
-width: 250px;
-height: 40px;
-text-align: center;
-margin-top:50px;
-margin-left: -30px;
-
+    background-color: #0F3B75;
+    font-family: Lato;
+    font-size: medium;
+    font-weight: bold;
+    width: 250px;
+    height: 50px;
+    text-align: center;
+    margin-top:20px;
+}
+.otp-resend{
+    margin: 60px;
+}
+.otp-resend p {
+    color:#0F3B75;
+    font-weight: bold;
+}
+.otp-resend button {
+    border: 1.5px solid #0F3B75;
+    color: #0F3B75;
+    font-weight: bold;
+    font-size: medium;
+    width: 250px;
+    height: 50px;
 }
