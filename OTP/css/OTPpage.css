@@ -1,11 +1,11 @@
-.payment-successful-rectangle{
+.otp-payment-successful-rectangle{
 	height:500px;
 	border:3px solid #0F3B75;
     margin-top: 120px;
     text-align: center;
 }
 
-.text-center{
+.otp-text-center{
     font-family: Lato;
     font-weight: bold;
     font-size: 16px;
@@ -14,14 +14,14 @@
 }
 
 
-p{
+.otp-p{
     font-family: Lato;
     font-weight: lighter;
     font-size: 13px;
     color: #0F3B75;
     padding-bottom: 20px; 
 }
-.textbox{
+.otp-textbox{
 
 width: 342px;
 height: 40px;
@@ -29,7 +29,7 @@ margin-left: -50px;
 
 }
 
-.button{
+.otp-button{
 
 font-family: Lato; 
 width: 250px;

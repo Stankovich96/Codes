@@ -1,11 +1,11 @@
-.payment-successful-rectangle{
+.paymentsuccessful-rectangle{
 	height:500px;
 	border:3px solid #0F3B75;
     margin-top: 120px;
     text-align: center;
 }
 
-.text-center{
+.paymentsuccessful-text-center{
     font-family: Lato;
     font-weight: bold;
     font-size: 24px;
@@ -13,7 +13,7 @@
     margin-top:-120px;
 }
 
-.circle{
+.paymentsuccessful-circle{
 	margin-left: 20px;
     margin-top: 100px;
 }
